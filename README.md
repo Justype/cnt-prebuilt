@@ -1,2 +1,5 @@
-# cnt-prebuilt
-Prebuilt sqf files for CondaTainer use
+# Prebuilt CondaTainer files
+
+[CondaTainer repo](https://github.com/Justype/condatainer)
+
+Follow the naming convention (replace `/` by `--`)
