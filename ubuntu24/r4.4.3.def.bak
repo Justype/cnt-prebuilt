@@ -1,3 +1,5 @@
+# Depreated: Use Posit Docker images instead
+# e.g. docker://posit/r-base:4.4.3-noble-amd64
 Bootstrap: docker
 From: ubuntu:24.04
 
